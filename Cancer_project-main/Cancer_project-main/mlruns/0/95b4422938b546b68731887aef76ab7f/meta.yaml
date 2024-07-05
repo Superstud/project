@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/irbaz/OneDrive/Desktop/Project/Cancer_project/mlruns/0/95b4422938b546b68731887aef76ab7f/artifacts
+end_time: 1719806899540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b4422938b546b68731887aef76ab7f
+run_name: spiffy-ant-281
+run_uuid: 95b4422938b546b68731887aef76ab7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719806890717
+status: 3
+tags: []
+user_id: irbaz
